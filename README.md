@@ -10,7 +10,7 @@
 ## Installation
 
 ```sh
-$ npm install react-native-wechat --save
+$ npm install txh-react-native-wechat --save
 ```
 
 ## License
